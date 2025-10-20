@@ -13,7 +13,7 @@
 // --- Configuration ---
 // Access Point (AP) Credentials
 const char* ap_ssid = "Smart_Thermometer_AP";
-const char* ap_password = "password123";
+const char* ap_password = NULL;
 
 // --- !! TEMPORARY TEST VALUES !! ---
 // These values are lowered to make it easy to test the color-changing logic.
