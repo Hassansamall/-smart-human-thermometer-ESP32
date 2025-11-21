@@ -1,4 +1,3 @@
-the connectivity 
 MLX90614 IR Sensor (I2C)
 vin -> 3.3v
 gnd -> gnd
